@@ -7,3 +7,10 @@
 * `lab_n2` - second lab's directory
 
 
+## CLone and assemble
+```
+git clone https://github.com/kiblerxz/bozlabs
+cd SOS-Labs
+make
+
+```
