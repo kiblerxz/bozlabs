@@ -7,7 +7,7 @@
 * `lab_n2` - second lab's directory
 
 ## Structure of lab_n2
-'lab_n2/
+lab_n2/
 ├── libmysyslog/
 │   ├── include/
 │   │   └── libmysyslog.h
@@ -18,7 +18,8 @@
 │   ├── src/
 │   │   └── mysyslog-client.c
 │   └── Makefile
-└── Makefile'
+└── Makefile
+
 
 
 ## CLone and assemble
